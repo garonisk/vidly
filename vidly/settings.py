@@ -25,7 +25,9 @@ SECRET_KEY = '$vre%xbf=2hz)@e^n$!r251xp++h&*_*@v*e1&!jh9aaqov)-j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'enigmatic-harbor-00126.herokuapp.com'
+]
 
 
 # Application definition
